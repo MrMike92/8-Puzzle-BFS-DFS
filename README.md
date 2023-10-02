@@ -48,6 +48,16 @@ Como el BFS es un algoritmo caracterizado por realizar una búsqueda a un árbol
 
 > _**Figura 4.- Comportamiento de un árbol BFS**_
 
+## Ejecución.
+
+<img src="/img/ejecucion-microsegundos.png" alt="BFSvsDFS" title="Comparativa de tiempo de BFS y DFS en microsegundos" width="650px"/>
+
+> _**Imagen 3.- Comparativa de tiempo de BFS y DFS en microsegundos**_
+
+<img src="/img/ejecucion-segundos.png" alt="BFSvsDFS" title="Comparativa de tiempo de BFS y DFS en segundos" width="650px"/>
+
+> _**Imagen 4.- Comparativa de tiempo de BFS y DFS en segundos**_
+
 Cabe mencionar que el BFS puede ser más lento que el DFS en algunos casos debido a la cantidad de estados que debe explorar, mientras que el DFS puede encontrar soluciones más rápido en situaciones en las que el número de movimientos requeridos sea muy grande, pero esto no garantiza que encuentre la solución más corta.
 
 Si deseas contribuir a este proyecto, puedes enviar solicitudes de extracción (pull requests) con mejoras o características adicionales y si tienes alguna pregunta o problema, puedes contactarme a través de mi perfil de GitHub MrMike92. :turtle:
